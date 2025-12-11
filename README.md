@@ -11,6 +11,7 @@
 
 ## 🔎​ About Sploit
 
+- 🌎​ E-commerce for Digital Products
 - 🕒 Over **2 years** in operation
 - 📦 More than **10,000 products sold**
 - ⭐ Over **1,000 satisfied customers** with positive feedback
