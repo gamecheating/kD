@@ -5,4 +5,4 @@
 
 ---
 
-- Owner @ sploit.store
+Owner @ sploit.store
